@@ -1,0 +1,44 @@
+.skill
+{
+  padding:0px 50px;
+}
+.contact{
+  padding:0px 150px;
+}
+.topnav{
+    background-color:#2E8B57;
+    height: 30px;
+    overflow: hidden;
+    padding:10px 10px;
+}
+.topnav a{
+  color:#f2f2f2;
+  font-size:20px;
+  padding: 0px 15px;
+  float:right;
+  text-align: center;
+  text-decoration: none;
+}
+.topnav a:hover{
+  color:black;
+}
+button{
+  padding: 5px 15px;
+  text:bold;
+  background-color:green;
+  color:white;
+  border-radius:5px;
+  font-size:20px;
+}
+body{
+   font-family:georgia;
+   line-height:1.6;
+}
+.project{
+  background-color: #2E8B57;
+  color:white;
+}
+.certificates h1{
+    background-color: #2E8B57;
+    color:white;
+}
